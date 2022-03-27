@@ -2,56 +2,26 @@
 title: Research
 permalink: /research/
 header:
-  image: /assets/images/moro-crop2.jpg
+  image: /assets/images/yellowwood-forest.jpg
 ---
 
 ## Working papers
 
-"Labor reallocation and remote work during COVID-19: Real-time evidence from GitHub." With B. Hansen. NBER Working Paper no. [w29598](https://www.nber.org/papers/w29598){:target="_blank"}.
-
-"Hydro power. Market might." [Paper]({{ site.url }}/papers/hydro.pdf){:target="_blank"}.
-
-<!--
-*A central tenet of economic theory is that market power induces deadweight loss. This claim rests on an assumption that is difficult to verify empirically. Namely, that dominant firms produce less than the social optimum. I provide evidence of such restrictive behaviour using a rich dataset of Norwegian hydropower firms. The research design exploits exogenous variation in market power, arising from transmission bottlenecks and the formation of localized electricity markets. The unique production traits of hydropower production further helps to avoid empirical complications associated with marginal cost estimation and endogenous variation in the supply mix. This allows me to identify the causal impact of market power on firm behaviour in a reduced-form setting that requires minimal assumptions. I show that gaining pivotal status can cause firms to withhold production by as much as a two to five percent. My results suggest that even nominally competitive markets are susceptible to strategic manipulation and welfare losses.* ([Paper]({{ site.url }}/papers/hydro.pdf){:target="_blank"}.)
--->
-
-<!-- Example of show/hide toggle for abstract:
-<details>
-  <summary>Abstract</summary>
-   <i>A central tenet of economic theory is that market power induces deadweight loss. This claim rests on an assumption that is difficult to verify empirically. Namely, that dominant firms produce less than the social optimum. I provide evidence of such restrictive behaviour using a rich dataset of Norwegian hydropower firms. The research design exploits exogenous variation in market power, arising from transmission bottlenecks and the formation of localized electricity markets. The unique production traits of hydropower production further helps to avoid empirical complications associated with marginal cost estimation and endogenous variation in the supply mix. This allows me to identify the causal impact of market power on firm behaviour in a reduced-form setting that requires minimal assumptions. I show that gaining pivotal status can cause firms to withhold production by as much as a two to five percent. My results suggest that even nominally competitive markets are susceptible to strategic manipulation and welfare losses.</i>
-</details>
-<br>
--->
-
-
 ## Selected works in progress
+"Ownership Structure and Fossil Fuel Infrastructure Retirement: Evidence from Coal’s Decline in the U.S." PI: [Sam Trachtman](https://samtrachtman.com/)
 
-"The value of mass information: Search in the Google era." With Christopher J. Costello and Michael B. Ward.
+In advanced industrial economies, meeting greenhouse gas emissions reductions in accordance with the Paris Agreement targets requires rapidly retiring fossil fuel infrastructure. I argue that the ownership structure of these assets—namely whether they are publicly or privately owned—can condition the degree to which economic, technological, and regulatory pressures lead to infrastructure retirement. Empirically, I examine the retirement of coal electricity generation facilities in the U.S. With the rise of natural gas and renewables and new regulations under the Obama administration, coal generation has declined dramatically since the mid-2000’s. I show, though, that whether and how fast generators retire depends on who owns them. More specifically, the evidence suggests that coal-fired generators owned publicly are slower to retire than privately-owned plants. I suggest that this effect is primarily driven by private firms’ greater access to finance and greater exposure to regulation. This finding has theoretical implications for our understanding of the political economy of energy transition, and implications for advocacy efforts promoting greater public ownership of energy assets. 
 
-<!--
-*A broad class of economic decision problems involves searching over a collection of uncertain research leads. Existing search theory informs the efficient search over this pool using available information. But in many cases, the researcher has the opportunity to collect new information en masse, e.g. with a search engine or scientific framework, that will benefit the search. We derive the value of this type of bulk information, determine the general properties that render it large or small, and calculate its implications for economic innovation. We show that changes to the underlying characteristics of different search problems can yield surprising results. For example, more lucrative end-prizes can actually reduce the value of information, while the possibility of better information often suppresses innovation.*
--->
 
-"The economic and environmental impact of modern piracy on global shipping." With Renato Molina and Gavin G. McDonald.
+"Energy transition finance: who backs the ratepayers? Legislating equity into coal debt securitization to ensure ratepayer backed securitization backs the ratepayers" [Code](https://github.com/jacobalder/coal-debt)
+
+In 2019, three states passed new ratepayer-backed debt securitization legislation to allow utilities to accelerate the retirement of uneconomic coal plants. More states have followed. Enacted bills differ, both in scope and focus, but select few require that securitization bonds also assist workers and communities affected by the energy transition. With coal in decline, more plants will be forced to retire and states have an opportunity––indeed a responsibility––to aid frontline communities.
+
+"Governor Affiliation and the 2017-TCJA Opportunity Zones." With [Briggs Depew](https://sites.google.com/site/briggsdepewecon/){:target="_blank"}. 
+
+Opportunity Zones are low-income community census tracts, as established under the 2017 Tax Cuts and Jobs Act. These zones are designed to incentivize economic growth and job creation in low-income and distressed communities by providing tax benefits (capital gains tax incentives) to investors who invest eligible capital into these areas. Governors could nominate up to 25% of eligible census tracts within a state. We examine the effect of the political party of state house representatives on the designation of opportunity zones. Using state house election results, we employ a regression discontinuity framework to compare districts that were represented by an individual with the same party as the governor to the districts that were represented by a party that is different than the governor. By using a regression discontinuity framework, we can compare the causal effect of partisan politics in designating opportunity zones.
+
 
 ## Publications
 
-"Sceptic priors and climate consensus." Published in **<i>Climatic Change</i>**, 2021 (166:7). [Paper](https://rdcu.be/cle8u){:target="_blank"}. [Pre-print](https://grantmcdermott.com/papers/sceptic.pdf){:target="_blank"}. [Code](https://github.com/grantmcdermott/skeptic-priors){:target="_blank"}. [Radio interview.](https://www.ijpr.org/show/the-jefferson-exchange/2021-06-23/fri-8-00-university-of-oregon-study-shows-climate-change-skepticism-hard-to-undo){:target="_blank"}.
-
-"Alternate explanations for the blue paradox do not withstand statistical scrutiny." With Kyle C. Meng, Gavin G. McDonald and Christopher J. Costello. Published in **<i>Proceedings of the National Academy of Sciences</i>**, 115 (52), E12124–E12125, 2018. [Paper](https://doi.org/10.1073/pnas.1818687115){:target="_blank"}. [Ungated](http://grantmcdermott.com/papers/mcdermott2019blueparadox-reply.pdf){:target="_blank"}. [Code](https://github.com/grantmcdermott/blueparadox){:target="_blank"}.
-
-"The Blue Paradox: Preemptive Overfishing in Marine Reserves." With Kyle C. Meng, Gavin G. McDonald and Christopher J. Costello. Published in **<i>Proceedings of the National Academy of Sciences</i>**, 116 (12), 5319–5325, 2019. [Paper](http://dx.doi.org/10.1073/pnas.1802862115){:target="_blank"}. [Ungated]({{ site.url }}/papers/mcdermott2019blueparadox.pdf){:target="_blank"}. [Code](https://github.com/grantmcdermott/blueparadox){:target="_blank"}. [Blog post and media coverage]({{ site.url }}/2018/08/29/blue-paradox-pnas/){:target="_blank"}.
-
-"Protecting marine mammals, turtles and birds by rebuilding global fisheries." With Matthew G. Burgess and others. Published in **<i>Science</i>**, 359 (6381) 1255–31258, 2018. [Paper](http://dx.doi.org/10.1126/science.aao4248){:target="_blank"}. [Ungated]({{ site.url }}/papers/burgess2018bycatch.pdf){:target="_blank"}.  [Code](https://github.com/grantmcdermott/bycatch){:target="_blank"}. [Blog post and media coverage]({{ site.url }}/2018/03/16/science-bycatch/){:target="_blank"}.
-
-"Five rules for pragmatic blue growth." With Matthew G. Burgess and others. Published in **<i>Marine Policy</i>**, 87 (2018) 331–339, 2018. [Paper](http://dx.doi.org/10.1016/j.marpol.2016.12.005){:target="_blank"}. [Ungated]({{ site.url }}/papers/burgess2018bluegrowth.pdf){:target="_blank"}.
-
-"Resolving disputes over ocean calamities." With Matthew G. Burgess. Published in **<i>BioScience</i>**, 65(12), 1115-1116, 2015. [Paper](http://dx.doi.org/10.1093/biosci/biv147){:target="_blank"}. [Ungated]({{ site.url }}/papers/burgess2015resolving.pdf){:target="_blank"}.
-
-"Electricity prices, river temperatures and cooling water scarcity." With Øivind A. Nilsen. Published in **<i>Land Economics</i>**, 90(1), 131-148, 2014. [Paper](http://dx.doi.org/10.3368/le.90.1.131){:target="_blank"}. [Ungated]({{ site.url }}/papers/mcdermott2014electricity.pdf){:target="_blank"}. [Blog post and media coverage]({{ site.url }}/2013/01/14/electricity-prices-river-temperatures-water-scarcity/){:target="_blank"}.
-
-## Report chapters
-
-"South Africa Compliance Analysis." With James Morrissey and Davina Mendelsohn, in “Governing Global Climate Change: St Petersburg Compliance Report for the ‘G8 Plus Five’ Countries”, Maria Banda and Joanna Langille (eds.), G8 Final Compliance Report 2007, Oxford: G8 Research Group Oxford, 1 June 2007. xiii + 190 pp. [Report](http://www.g8.utoronto.ca/oxford/2006compliance-ox.pdf){:target="_blank"}.
-
-"The Current Status of the EPWP (Infrastructure) in the Western Cape." With Anna McCord, Kim Adonis and Lisa van Dongen. Prepared for the Western Cape Provincial Treasury & Department of Transport And Public Works CAPE. Public Works Research Project, SALDRU, UCT, 24 March 2006. [Report](http://www.saldru.uct.ac.za/documentation/reports-and-studies-1/147-the-current-status-of-the-epwp-infrastructure-in-the-western-cape-1){:target="_blank"}.
+"Limits of Growth: An Ecological Approach to Mainstream Economics." Published in **<i>Digital Commons at USU</i>**, 2020 (166:7). [Paper](https://doi.org/10.26076/c250-f80d){:target="_blank"}. 

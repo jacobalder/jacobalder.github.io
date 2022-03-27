@@ -1,8 +1,9 @@
 # Site wide configuration
 
-title: Grant R. McDermott
+title: Jacob C. Alder
 locale: en_US
-url: https://grantmcdermott.com
+# url: https://grantmcdermott.com
+url: jacobalder.github.io
 ## To build the website locally, comment out the previous line and run
 ## in terminal: 'bundle ex jekyll serve'. The website will be hosted at
 ## 'localhost:4000'.
@@ -45,38 +46,38 @@ titlecase: true
 
 # Site owner
 owner:
-  name: Grant McDermott
-  avatar: mcdermott400sq-s.jpg
-  bio: "Assistant Professor</br>Dept. of Economics</br>University of Oregon"
-  email: grantmcd@uoregon.edu
-  disqus-shortname: grantmcdermott-blog
-  twitter: grant_mcdermott
-  facebook: #username
-  google_scholar: EruWDMwAAAAJ
-  google:
-    plus: #username
-    analytics: UA-76482472-1
-    verify:
-    ad-client:
-    ad-slot:
-  orcid: 0000-0001-7883-8573
-  bing-verify:
-  github: grantmcdermott
-  stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
-  linkedin: grant-mcdermott-b8637419
-  xing: #username
-  instagram: #username
-  lastfm: #username
-  tumblr: #username
-  pinterest: #username
-  foursquare: #username
-  steam: #username
-  dribbble: #username
-  youtube: #username
-  soundcloud: #username
-  weibo: #username
-  flickr: #username
-  codepen: #username
+  name: Jacob C. Alder
+  avatar: alder-jacob_sq.jpeg
+  bio: "Graduate Student</br>O'Neill School of Public</br>and Environmental Affairs </br>Indiana University"
+  email: alderjc at iu dot edu
+  # disqus-shortname: grantmcdermott-blog
+  twitter: jacobalder
+  # facebook: #username
+  # google_scholar: EruWDMwAAAAJ
+  # google:
+  #   plus: #username
+  #   analytics: UA-76482472-1
+  #   verify:
+  #   ad-client:
+  #   ad-slot:
+  # orcid: 0000-0001-7883-8573
+  # bing-verify:
+  github: jacobalder
+  # stackoverflow: #123456/username   from a "http://stackoverflow.com/users/123456/username" link
+  linkedin: jacob-alder
+  # xing: #username
+  # instagram: #username
+  # lastfm: #username
+  # tumblr: #username
+  # pinterest: #username
+  # foursquare: #username
+  # steam: #username
+  # dribbble: #username
+  # youtube: #username
+  # soundcloud: #username
+  # weibo: #username
+  # flickr: #username
+  # codepen: #username
 
 include: [".htaccess"]
 exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "*.Rmd", "*.Rmarkdown", "_cache"]

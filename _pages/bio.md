@@ -2,15 +2,14 @@
 title: Bio
 permalink: /bio/
 header:
-  image: /assets/images/groenberg-crop2.jpg
+  image: /assets/images/mt_olympus-header.jpg
 ---
 
-I hail from the Cape Winelands of South Africa. I attended the University of Cape Town for my Bachelor studies, graduating with double honours degrees in economics and business science.
+I call the beautiful Rocky Mountains home -- I grew up in Salt Lake City, Utah hiking, cycling, and admiring the rugged outdoors. I attended Utah State University, my soul home at the base of Logan Canyon in northern Utah. There, I studied economics and ecological economic theory, as well as electrical engineering and mathematics. I graduated with an honors degree in economics and followed my sweetheart to Indiana where I have come to appreciate forests and birdsong.
 
-I then spent several years working in the private sector, punctuated by extended periods of travel. Most notable was a 12,500 km bicycle journey from Cairo to Cape Town, which raised $200,000 for a development project in Tanzania. Here are [two](http://www.youtube.com/watch?v=BOFWtnCMnJw){:target="_blank"} [promo](http://www.youtube.com/watch?v=fL4JsEH_CJU){:target="_blank"} videos of the expedition that were made as part of a pitch to Irish television companies.
+Since I was young, my focus and passion has been making the benefits of clean and energy accessible to all people. I want to live in a healthier harmony with my community(ies), which I believe necessarily includes the natural world. I see systems, e.g., society, health, energy, technology, education in this light: all life is interdependent.
 
-My experiences during these travels, as well as bearing close witness to the global financial crisis through my job as an economic consultant, were key motivating factors in my decision to pursue graduate studies. My preference was to study abroad and to specialise in energy economics and natural resource management. Norway seemed an ideal fit for these goals and I thus went on to enroll in an MSc, followed by a PhD at the Norwegian School of Economics. After completing my PhD in 2015, I went on to do a two-year postdoc with at UC Santa Barbara's Bren School of Environmental Science and Management.
+As I have learned more about distributional effects of the energy transition, my focus has shifted to emphasize Energy Justice, and I am currently a graduate research assistant to Dr. Sanya Carley and Dr. David Konisky in the [Energy Justice Lab](https://energyjustice.indiana.edu/) at Indiana University. Various research and professional opportunities have lead me to this current pursuit, including utility ratepayer advocacy work with [Dr. Ezra Hausman](https://www.ezrahausman.com/), building energy and design engineering with [McKinstry Co. LLC](https://www.mckinstry.com/), and dynamic modelling and battery-testing with the NSF-funded electric vehicle consortium [ASPIRE](https://aspire.usu.edu/). See my full C.V. [here](/_vita/alder_jacob_20211118.pdf "Current C.V.").
 
-In Fall 2017, I joined the [Department of Economics](http://economics.uoregon.edu/){:target="_blank"} at the University of Oregon as an assistant professor.
-
-My research interests are rooted in the fields of environmental and resource economics, and are informed by an overarching empirical approach. Alongside traditional econometrics, my research utilises economic theory, Bayesian methods, and a variety of newer data science tools. I am particularly excited by the prospects of big data and associated tools like machine learning for addressing longstanding environmental and social questions. 
+Recently, in my spare time, I have decided I sincerely enjoy baking bread. You can view my gateway bread recipe [here](/assets/recipes/GATEWAY_BREAD_JCA.pdf).
+![Sourdough Bread](/assets/images/gateway_bread.jpg "Gateway Bread")

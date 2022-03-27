@@ -13,19 +13,19 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Grant R. McDermott
-url: https://grantmcdermott.com
+title: Jacob C. Alder
+url: https://jacobalder.github.io/
 ## To build the website locally, comment out the previous line and run
 ## in terminal: 'bundle ex jekyll serve'. The website will be hosted at
 ## 'localhost:4000'.
 
 # repository: grantmcdermott/grantmcdermott.github.io
 github: [metadata]
-email: grantmcd@uoregon.edu
+email: alderjc@iu.edu
 description: >- # this means to ignore newlines in the text below
-  Grant McDermott's personal website.
-twitter_username: grant_mcdermott
-github_username: grantmcdermott
+  Jacob Alder's personal website.
+twitter_username: jacobalder
+github_username: jacobalder
 minimal_mistakes_skin: "default" #"default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 search: true
 
@@ -65,37 +65,40 @@ plugins:
 author:
   name   : "Grant McDermott"
   avatar : "/assets/images/mcdermott400sq-s.jpg"
-  bio    : 
-    Assistant Prof. at the University of Oregon. 
+  bio    :
+    Assistant Prof. at the University of Oregon.
     Interested in environmental economics & data science.
   links:
+    - lable: "LinkedIn"
+      icon:  "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/jacob-alder/"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://grantmcdermott.com"
+      url: "https://jacobalder.github.io/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:grantmcd@uoregon.edu"
+      url: "mailto:alderjc@iu.edu"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/grant_mcdermott"
+      url: "https://twitter.com/jacobalder"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/grantmcdermott"
-    - label: "Scholar"
-      icon: "ai ai-google-scholar"
-      url: "http://scholar.google.com/citations?user=EruWDMwAAAAJ"
-    - label: "ORCID"
-      icon: "ai ai-orcid"
-      url: "http://orcid.org/0000-0001-7883-8573"
-      
+    # - label: "Scholar"
+    #   icon: "ai ai-google-scholar"
+    #   url: "http://scholar.google.com/citations?user=EruWDMwAAAAJ"
+    # - label: "ORCID"
+    #   icon: "ai ai-orcid"
+    #   url: "http://orcid.org/0000-0001-7883-8573"
+
 footer:
   links:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/grant_mcdermott"
+      url: "https://twitter.com/jacobalder"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/grantmcdermott"
+      url: "https://github.com/jacobalder"
 
 defaults:
   # _posts
@@ -124,20 +127,20 @@ defaults:
 # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#twitter-cards-and-facebook-open-graph
 og_image: /assets/images/default-thumb.png
 
-# Analytics
-# https://mmistakes.github.io/minimal-mistakes/docs/configuration/#analytics
-analytics:
-  provider: "google-gtag"
-  google:
-    tracking_id: "UA-76482472-1"
-    anonymize_ip: false # default
+# # Analytics
+# # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#analytics
+# analytics:
+#   provider: "google-gtag"
+#   google:
+#     tracking_id: "UA-76482472-1"
+#     anonymize_ip: false # default
 
 # Comments
 # https://mmistakes.github.io/minimal-mistakes/docs/configuration/#disqus
-comments:
-  provider: "disqus"
-  disqus:
-    shortname: "grantmcdermott-blog"
+# comments:
+#   provider: "disqus"
+#   disqus:
+#     shortname: "grantmcdermott-blog"
 
 category_archive:
   type: liquid
