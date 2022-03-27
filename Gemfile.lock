@@ -296,7 +296,6 @@ DEPENDENCIES
   activesupport (>= 4.1.11)
   github-pages
   jekyll-algolia
-  jekyll-feed
   jekyll-gist
   jekyll-include-cache
   jekyll-paginate

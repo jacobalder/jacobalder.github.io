@@ -20,13 +20,14 @@ url: https://jacobalder.github.io/
 ## 'localhost:4000'.
 
 # repository: grantmcdermott/grantmcdermott.github.io
-github: [metadata]
+# github: [metadata]
+github: https://github.com/jacobalder
 email: alderjc@iu.edu
 description: >- # this means to ignore newlines in the text below
   Jacob Alder's personal website.
 twitter_username: jacobalder
 github_username: jacobalder
-minimal_mistakes_skin: "default" #"default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
+minimal_mistakes_skin: "dark" #"default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
 search: true
 
 # Build settings
@@ -58,16 +59,17 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
-  - jekyll-feed
+  # - jekyll-feed
   - jemoji
   - jekyll-include-cache
 
 author:
-  name   : "Grant McDermott"
-  avatar : "/assets/images/mcdermott400sq-s.jpg"
+  name   : "Jacob Alder"
+  avatar : "/assets/images/alder-jacob_sq.jpeg"
   bio    :
-    Assistant Prof. at the University of Oregon.
-    Interested in environmental economics & data science.
+    Indiana Univ. O'Neill MPA student
+    Interested in energy justice and
+    Equitable resource stewardship
   links:
     - lable: "LinkedIn"
       icon:  "fab fa-fw fa-linkedin-square"
@@ -83,7 +85,7 @@ author:
       url: "https://twitter.com/jacobalder"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/grantmcdermott"
+      url: "https://github.com/jacobalder"
     # - label: "Scholar"
     #   icon: "ai ai-google-scholar"
     #   url: "http://scholar.google.com/citations?user=EruWDMwAAAAJ"
