@@ -71,7 +71,7 @@ author:
     Equitable resource stewardship
   links:
     - label: "LinkedIn"
-      icon: "fa fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jacob-alder/"
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -95,7 +95,7 @@ author:
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fa fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/jacob-alder/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
