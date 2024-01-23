@@ -24,7 +24,7 @@ url: https://jacobalder.github.io/
 github: https://github.com/jacobalder
 email: alderjc@iu.edu
 description: >- # this means to ignore newlines in the text below
-  Jacob Alder's personal website.
+  Personal website for Jacob Alder
 twitter_username: jacobalder
 github_username: jacobalder
 minimal_mistakes_skin: "dark" #"default" "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum" "sunrise"
@@ -67,8 +67,7 @@ author:
   name   : "Jacob Alder"
   avatar : "/assets/images/alder-jacob_sq.jpeg"
   bio    :
-    Indiana Univ. O'Neill MPA student
-    Interested in energy justice and
+    Energy justice and
     Equitable resource stewardship
   links:
     - lable: "LinkedIn"
@@ -79,13 +78,13 @@ author:
       url: "https://jacobalder.github.io/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:alderjc@iu.edu"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/jacobalder"
+      url: "mailto:jacob.cannon.alder@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jacobalder"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/jacobalder"
     # - label: "Scholar"
     #   icon: "ai ai-google-scholar"
     #   url: "http://scholar.google.com/citations?user=EruWDMwAAAAJ"
@@ -95,9 +94,9 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/jacobalder"
+    - lable: "LinkedIn"
+      icon:  "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/jacob-alder/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jacobalder"
