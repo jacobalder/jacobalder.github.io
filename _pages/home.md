@@ -7,8 +7,8 @@ header:
   image: /assets/images/uintahs.jpg
 ---
 
-Jacob is focused on clean energy and ensuring equitable access to a healthy and vibrant environment. He is committed to finding actionable solutions to guide the nation to an equitable energy future.
+Jacob is an advocate for environmental justice. He is committed to building an equitable energy future with improved access to a healthy and vibrant environment.
 
-Jacob is the president of Alder Metrics LLC, an independent consulting venture through which he provides analytical support and research on projects relating to utility energy efficiency program assessment; clean electrical generation, transmission, and distribution; electricity market transformation; vehicle and roadway electrification; demand-side management and distributed energy resources; non-pipeline solutions; battery storage; energy efficiency programs and HVAC retrofits; street-lighting tariffs and retrofits; evaluation, measurement and verification (EM&V); and supply-chain risk analysis.
+Jacob is currently employed as a consultant for Deloitte Consulting, LLP. He also maintains an independent consulting venture: Alder Metrics LLC.
 
-Currently, Jacob is a graduate student in public affairs at O'Neill School of Public Affairs, Indiana University-Bloomington.
+Jacob holds a graduate policy degree from the O'Neill School of Public and Environmental Affairs, Indiana University-Bloomington. He specializes in environmental and energy justice, with a focus on using public finance to improve community access to restorative justice. This includes measurement & verification, or assessment of home energy retrofits and energy efficiency programs; clean electricity; and vehicle and roadway electrification.

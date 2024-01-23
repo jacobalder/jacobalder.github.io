@@ -67,8 +67,7 @@ author:
   name   : "Jacob Alder"
   avatar : "/assets/images/alder-jacob_sq.jpeg"
   bio    :
-    Indiana Univ. O'Neill MPA student
-    Interested in energy justice and
+    Energy justice and
     Equitable resource stewardship
   links:
     - lable: "LinkedIn"
@@ -79,10 +78,10 @@ author:
       url: "https://jacobalder.github.io/"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:alderjc@iu.edu"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/jacobalder"
+      url: "mailto:jacob.cannon.alder@gmail.com"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/jacobalder"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jacobalder"
@@ -95,9 +94,9 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/jacobalder"
+    - lable: "LinkedIn"
+      icon:  "fab fa-fw fa-linkedin-square"
+      url: "https://www.linkedin.com/in/jacob-alder/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/jacobalder"
